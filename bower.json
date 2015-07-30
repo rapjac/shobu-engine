@@ -1,0 +1,20 @@
+{
+  "name": "shobu-engine",
+  "version": "0.0.0",
+  "homepage": "https://github.com/rapjac/shobu-engine",
+  "authors": [
+    "Rafael Jacinto <rpdjacinto@gmail.com>"
+  ],
+  "description": "Visual Novel game engine",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "phaser": "~2.4.2"
+  }
+}
